@@ -5,6 +5,7 @@
 
 ###### My name’s Dátila Silva.
 ###### I’m from São José da Safira (Brazil), but I live in Stockolm.
+###### I'm a professional in career transition (I'm Lawyer).
 ###### I'm currently studying English, Swedish and Technology -Developer Front-End.
 ###### My dedications in Developer: HTML, CSS, JS, REACT and I'm available for my first experience as a Developer!
 
