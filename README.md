@@ -8,7 +8,7 @@
 ###### I'm currently studying English, Swedish and Technology -Developer Front-End.
 ###### My dedications in Developer: HTML, CSS, JS, REACT and I'm available for my first experience as a Developer!
 
-### Portifolio
+## Portifolio
 ##### ![Project1](https://github.com/datilasilva/datilasilva/blob/main/buscausuariogit...png) Project React https://buscausuariogit-react.netlify.app
 ##### Project HTML, CSS, JavaScript https://workshopdev-especial-rocketseat-1aed.netlify.app ![Project2](https://github.com/datilasilva/datilasilva/blob/main/preject2JS-CSS.png) 
 ##### ![Project3](https://github.com/datilasilva/datilasilva/blob/main/prejectJS-CSS.png) Project HTML, CSS, JavaScript https://curso-programaria-projeto1.netlify.app
@@ -16,7 +16,7 @@
 ##### ![Project5](https://github.com/datilasilva/datilasilva/blob/main/prejectREACT.png) Project React https://quizpetamigos.datilasilva.vercel.app/
 ##### Project in Bootstrap https://loja-virtual-curso-gama-bootstrap.netlify.app ![Project6](https://github.com/datilasilva/datilasilva/blob/main/prejectbootstrap.png) 
 
-# Contacts
+## Contacts
 ###### +46 (73) 3265734 (whatsapp e cell)
 ###### +55 (33) 988111610  (whatsapp)
 ###### +55 (31) 4042 5877 (phone Skype)
