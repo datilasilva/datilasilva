@@ -1,5 +1,5 @@
 ###### Hi everybody!
-![Profile](https://media-exp1.licdn.com/dms/image/C4D03AQEWyK4jOkLbXw/profile-displayphoto-shrink_200_200/0/1601390548308?e=1615420800&v=beta&t=bdBVWmVQQVAc41InsU3B_Pgp21uM9vLaaul1Yom4ba4)
+![Profile](https://github.com/datilasilva/datilasilva/blob/main/profile..jpg)
 
 ## About
 
@@ -9,71 +9,20 @@
 ###### My dedications in Developer: HTML, CSS, JS, REACT and I'm available for my first experience as a Developer!
 
 ### Portifolio
-![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
+##### ![Project1](https://github.com/datilasilva/datilasilva/blob/main/buscausuariogit...png) Project React https://buscausuariogit-react.netlify.app
+##### Project HTML, CSS, JavaScript https://workshopdev-especial-rocketseat-1aed.netlify.app ![Project2](https://github.com/datilasilva/datilasilva/blob/main/preject2JS-CSS.png) 
+##### ![Project3](https://github.com/datilasilva/datilasilva/blob/main/prejectJS-CSS.png) Project HTML, CSS, JavaScript https://curso-programaria-projeto1.netlify.app
+##### Project HTML, CSS and JavaScript https://validadorcpf-cursogamajs.netlify.app ![Project4](https://github.com/datilasilva/datilasilva/blob/main/prejectJS.png) 
+##### ![Project5](https://github.com/datilasilva/datilasilva/blob/main/prejectREACT.png) Project React https://quizpetamigos.datilasilva.vercel.app/
+##### Project in Bootstrap https://loja-virtual-curso-gama-bootstrap.netlify.app ![Project6](https://github.com/datilasilva/datilasilva/blob/main/prejectbootstrap.png) 
 
-## Layout web
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
+# Contacts
+###### +46 (73) 3265734 (whatsapp e cell)
+###### +55 (33) 988111610  (whatsapp)
+###### +55 (31) 4042 5877 (phone Skype)
+###### datilaadv@gmail.com
+###### linkedin/datilarodriguesdasilva
 
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
-
-## Modelo conceitual
-![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
-
-# Tecnologias utilizadas
-## Back end
-- Java
-- Spring Boot
-- JPA / Hibernate
-- Maven
-## Front end
-- HTML / CSS / JS / TypeScript
-- ReactJS
-- React Native
-- Apex Charts
-- Expo
-## Implantação em produção
-- Back end: Heroku
-- Front end web: Netlify
-- Banco de dados: Postgresql
-
-# Como executar o projeto
-
-## Back end
-Pré-requisitos: Java 11
-
-```bash
-# clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
-
-# entrar na pasta do projeto back end
-cd backend
-
-# executar o projeto
-./mvnw spring-boot:run
-```
-
-## Front end web
-Pré-requisitos: npm / yarn
-
-```bash
-# clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
-
-# entrar na pasta do projeto front end web
-cd front-web
-
-# instalar dependências
-yarn install
-
-# executar o projeto
-yarn start
-```
-
-# Autor
-
-Wellington Mazoni de Andrade
-
-https://www.linkedin.com/in/wmazoni
 
 <!--
 **datilasilva/datilasilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
