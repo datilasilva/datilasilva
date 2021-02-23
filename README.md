@@ -10,12 +10,27 @@
 ###### My dedications in Developer: HTML, CSS, JS, REACT and I'm available for my first experience as a Developer!
 
 ## Portifolio
-##### ![Project1](https://github.com/datilasilva/datilasilva/blob/main/buscausuariogit...png) Project React https://buscausuariogit-react.netlify.app
-##### Project HTML, CSS, JavaScript https://workshopdev-especial-rocketseat-1aed.netlify.app ![Project2](https://github.com/datilasilva/datilasilva/blob/main/preject2JS-CSS.png) 
-##### ![Project3](https://github.com/datilasilva/datilasilva/blob/main/prejectJS-CSS.png) Project HTML, CSS, JavaScript https://curso-programaria-projeto1.netlify.app
-##### Project HTML, CSS and JavaScript https://validadorcpf-cursogamajs.netlify.app ![Project4](https://github.com/datilasilva/datilasilva/blob/main/prejectJS.png) 
-##### ![Project5](https://github.com/datilasilva/datilasilva/blob/main/prejectREACT.png) Project React https://quizpetamigos.datilasilva.vercel.app/
-##### Project in Bootstrap https://loja-virtual-curso-gama-bootstrap.netlify.app ![Project6](https://github.com/datilasilva/datilasilva/blob/main/prejectbootstrap.png) 
+
+##### Acess: Project React https://buscausuariogit-react.netlify.app  
+
+###### ![Project1](https://github.com/datilasilva/datilasilva/blob/main/buscausuariogit...png) 
+
+##### Acess: Project HTML, CSS, JavaScript https://workshopdev-especial-rocketseat-1aed.netlify.app 
+
+###### ![Project2](https://github.com/datilasilva/datilasilva/blob/main/preject2JS-CSS.png) 
+
+##### Acess: Project HTML, CSS, JavaScript https://curso-programaria-projeto1.netlify.app
+![Project3](https://github.com/datilasilva/datilasilva/blob/main/prejectJS-CSS.png)
+
+##### Acess: Project HTML, CSS and JavaScript https://validadorcpf-cursogamajs.netlify.app 
+
+![Project4](https://github.com/datilasilva/datilasilva/blob/main/prejectJS.png) 
+
+##### Acess: Project React https://quizpetamigos.datilasilva.vercel.app/
+![Project5](https://github.com/datilasilva/datilasilva/blob/main/prejectREACT.png)
+
+##### Acess: Project in Bootstrap https://loja-virtual-curso-gama-bootstrap.netlify.app 
+![Project6](https://github.com/datilasilva/datilasilva/blob/main/prejectbootstrap.png) 
 
 ## Contacts
 ###### +46 (73) 3265734 (whatsapp e cell)
