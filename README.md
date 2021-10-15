@@ -11,6 +11,10 @@
 
 ## Portifolio
 
+##### Acess: Project Rocketseat https://maratonadiscovery02.dtilarodrigues.repl.co/  
+
+###### ![Project1](https://github.com/datilasilva/datilasilva/blob/main/Jobs.png) 
+
 ##### Acess: Project React https://buscausuariogit-react.netlify.app  
 
 ###### ![Project1](https://github.com/datilasilva/datilasilva/blob/main/buscausuariogit...png) 
